@@ -1,2 +1,3 @@
-# janetteFromLafayette
-My ReadMe Repository
+### janetteFromLafayette
+## About Me
+I'm from Lafayette
